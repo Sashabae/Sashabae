@@ -1,7 +1,7 @@
 # Hi, I'm Sasha 🐱
 
 # 💫 About Me:
-I'm a passionate web developer and programming enthusiast currently focusing on JavaScript, React, Node.js, and building full-stack applications. I enjoy learning new technologies, solving real-world problems, and contributing to projects that make a difference.
+I'm a passionate web developer currently focusing on JavaScript, React, Node.js, and building full-stack applications. I enjoy learning new technologie and turning ideas into real, working products
 
 
 # 💻 Tech Stack:
